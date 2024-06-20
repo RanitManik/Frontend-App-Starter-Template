@@ -3,7 +3,7 @@
   <h1>React Vite App Template</h1>
 </div>
 
-Welcome to the **React Vite App Template**! This template is a starting point for building dynamic and interactive web applications using Vite and React.
+Welcome to the **React Vite App Template**! This template is a starting point for building dynamic and interactive web applications using Vite and React with all the essential community standards to support you in successfully launching your projects.
 
 ## Table of Contents
 
