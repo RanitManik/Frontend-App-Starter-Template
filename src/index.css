@@ -2,20 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-@keyframes gradient {
-    0% {
-        background-position: 0% 50%;
-    }
-    50% {
-        background-position: 100% 50%;
-    }
-    100% {
-        background-position: 0% 50%;
-    }
-}
-
 .gradient-bg {
-    background: linear-gradient(270deg, #1e3a8a, #9333ea, #f59e0b, #10b981);
-    background-size: 800% 800%;
-    animation: gradient 15s ease infinite;
+    background-color:#f699ff;
+    background-image:
+    radial-gradient(at 46% 78%, hsla(281,85%,72%,1) 0px, transparent 50%),
+    radial-gradient(at 75% 99%, hsla(254,86%,61%,1) 0px, transparent 50%),
+    radial-gradient(at 80% 2%, hsla(301,81%,68%,1) 0px, transparent 50%),
+    radial-gradient(at 69% 21%, hsla(101,73%,70%,1) 0px, transparent 50%),
+    radial-gradient(at 60% 33%, hsla(148,78%,66%,1) 0px, transparent 50%),
+    radial-gradient(at 5% 93%, hsla(24,94%,75%,1) 0px, transparent 50%),
+    radial-gradient(at 98% 56%, hsla(109,64%,78%,1) 0px, transparent 50%);
 }

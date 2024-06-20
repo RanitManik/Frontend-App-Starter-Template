@@ -1,9 +1,9 @@
 <div align="center">
   <img height="70px" src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Technology Icons">
-  <h1>React Vite App Template</h1>
+  <h1>Frontend App Starter Template</h1>
 </div>
 
-Welcome to the **React Vite App Template**! This template is a starting point for building dynamic and interactive web applications using Vite and React with all the essential community standards to support you in successfully launching your projects.
+Welcome to the **Frontend App Starter Template**! This template is a starting point for building dynamic and interactive web applications using Vite and React with all the essential community standards to support you in successfully launching your projects.
 
 ## Table of Contents
 
@@ -36,7 +36,7 @@ This template will continue to evolve to better meet diverse needs. Feel free to
    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" height="30px">
    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" height="30px">
    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" height="30px">
-   <img src="https://img.shields.io/badge/PostCSS-%23DD3A0A.svg?style=for-the-badge&logo=postcss&logoColor=white" alt="TailwindCSS" height="30px">
+   <img src="https://img.shields.io/badge/PostCSS-%23DD3A0A.svg?style=for-the-badge&logo=postcss&logoColor=white" alt="PostCSS" height="30px">
    <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" height="30px">
    <img src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=for-the-badge&logo=Prettier&logoColor=black" alt="Prettier" height="30px">
 </p>
@@ -62,8 +62,8 @@ This template will continue to evolve to better meet diverse needs. Feel free to
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/RanitManik/React-Vite-App-Template.git
-   cd react-vite-app-template
+   git clone https://github.com/RanitManik/Frontend-App-Starter-Template.git
+   cd frontend-app-starter-template
    ```
 
 2. **Install dependencies:**
@@ -141,7 +141,7 @@ yarn format
 The project structure is as follows:
 
 ```
-react-vite-app-template/
+frontend-app-starter-template/
 ├── index.html
 ├── package.json
 ├── postcss.config.js
@@ -171,7 +171,7 @@ react-vite-app-template/
 
 ## Contributing
 
-We welcome contributions to enhance the Gemini Clone project. To contribute:
+We welcome contributions to enhance the Frontend App Starter Template project. To contribute:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix:
@@ -206,5 +206,5 @@ _Feel free to reach out if you have questions or just want to chat about web adv
 ---
 
 <p align="center">
-   Thank you for using the <strong>React Vite App Template</strong>! Happy coding! 🚀
+   Thank you for using the <strong>Frontend App Starter Template</strong>! Happy coding! 🚀
 </p>
