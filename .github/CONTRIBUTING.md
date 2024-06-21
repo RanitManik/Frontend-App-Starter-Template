@@ -12,13 +12,13 @@ follow to make the contribution process smooth and effective for everyone involv
 2. **Clone Your Fork**:
     - Open your terminal and run:
       ```sh
-      git clone https://github.com/RanitManik/README-Template.git
+      git clone https://github.com/RanitManik/Frontend-App-Starter-Template.git
       ```
 
 3. **Create a Branch**:
     - Move into the cloned directory:
       ```sh
-      cd README-Template
+      cd Frontend-App-Starter-Template
       ```
     - Create a new branch for your changes:
       ```sh
